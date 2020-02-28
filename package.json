@@ -1,0 +1,23 @@
+{
+  "name": "compare-image",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node .\\index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghseong/compare-image.git"
+  },
+  "author": "ghseong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghseong/compare-image/issues"
+  },
+  "homepage": "https://github.com/ghseong/compare-image#readme",
+  "devDependencies": {
+    "pixelmatch": "^5.1.0",
+    "pngjs": "^3.4.0"
+  }
+}
